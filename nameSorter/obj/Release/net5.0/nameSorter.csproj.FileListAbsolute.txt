@@ -1,0 +1,15 @@
+D:\Programming\nameSorter\nameSorter\bin\Release\net5.0\nameSorter.exe
+D:\Programming\nameSorter\nameSorter\bin\Release\net5.0\nameSorter.deps.json
+D:\Programming\nameSorter\nameSorter\bin\Release\net5.0\nameSorter.runtimeconfig.json
+D:\Programming\nameSorter\nameSorter\bin\Release\net5.0\nameSorter.runtimeconfig.dev.json
+D:\Programming\nameSorter\nameSorter\bin\Release\net5.0\nameSorter.dll
+D:\Programming\nameSorter\nameSorter\bin\Release\net5.0\ref\nameSorter.dll
+D:\Programming\nameSorter\nameSorter\bin\Release\net5.0\nameSorter.pdb
+D:\Programming\nameSorter\nameSorter\obj\Release\net5.0\nameSorter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\nameSorter\nameSorter\obj\Release\net5.0\nameSorter.AssemblyInfoInputs.cache
+D:\Programming\nameSorter\nameSorter\obj\Release\net5.0\nameSorter.AssemblyInfo.cs
+D:\Programming\nameSorter\nameSorter\obj\Release\net5.0\nameSorter.csproj.CoreCompileInputs.cache
+D:\Programming\nameSorter\nameSorter\obj\Release\net5.0\nameSorter.dll
+D:\Programming\nameSorter\nameSorter\obj\Release\net5.0\ref\nameSorter.dll
+D:\Programming\nameSorter\nameSorter\obj\Release\net5.0\nameSorter.pdb
+D:\Programming\nameSorter\nameSorter\obj\Release\net5.0\nameSorter.genruntimeconfig.cache
